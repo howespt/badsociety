@@ -1,4 +1,4 @@
-@import 'normalize.css';
+@import '_normalize.css';
 
 *,
 *:after,
@@ -41,6 +41,7 @@
   padding: 1rem;
   font-family: Avenir, Helvetica, sans-serif;
   text-align: center;
+  min-height: 100vh;
 }
 
 .vid-info h1 {
